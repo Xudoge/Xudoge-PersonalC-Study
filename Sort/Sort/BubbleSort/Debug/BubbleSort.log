@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(BubbleSort.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Sort.cpp
+C:\Users\lostm\Desktop\C++Study\Sort\Sort\BubbleSort\BubbleSort.h(8,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lostm\Desktop\C++Study\Sort\Sort\BubbleSort\InsertionSort.h(10,19): warning C4018: “<”: 有符号/无符号不匹配
+  BubbleSort.vcxproj -> C:\Users\lostm\Desktop\C++Study\Sort\Sort\Debug\Sort——.exe
