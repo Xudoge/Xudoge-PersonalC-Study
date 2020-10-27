@@ -1,0 +1,4 @@
+﻿  UsingNamespace_ByteError.cpp
+C:\Users\lostm\Desktop\C++Study_GitHub\Xudoge-PersonalC-Study\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError.cpp(19,10): error C2872: “byte”: 不明确的符号
+C:\Users\lostm\Desktop\C++Study_GitHub\Xudoge-PersonalC-Study\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError.cpp(13,14): message : 可能是“char byte”
+C:\Users\lostm\Desktop\C++Study_GitHub\Xudoge-PersonalC-Study\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError\UsingNamespace_ByteError.cpp(8,27): message : 或    “A::byte”
